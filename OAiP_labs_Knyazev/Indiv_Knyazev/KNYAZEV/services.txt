@@ -1,0 +1,5 @@
+service1,1,0.30,мин
+service2,2,0.15,#
+service3,3,0.50,мин
+service4,4,10,мин
+service5,5,50,мин
